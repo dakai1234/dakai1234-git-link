@@ -1,1 +1,6 @@
-"# ²ËÄñ½Ì³Ì Git ²âÊÔ" 
+# include <stdio.h>
+int main()
+{
+    printf("hello world!");
+    return 0;
+}
